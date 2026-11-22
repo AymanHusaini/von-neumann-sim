@@ -1,0 +1,6 @@
+{
+  "name": "Simulator Pemasangan PC & Seni Bina Von Neumann",
+  "description": "Visualisasi perkakasan PC ATX interaktif 3D dengan 8 langkah pemasangan, mod X-Ray, dan aliran data Seni Bina Von Neumann.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
